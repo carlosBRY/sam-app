@@ -36,3 +36,9 @@
     transform: rotate(360deg);
   }
 }
+
+body {
+  background-color: #f7f7f7;
+}
+
+.MuiGrid-root, .MuiGrid-container, .MuiGrid-item{ padding: 15px !important; }
