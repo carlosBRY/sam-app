@@ -17,7 +17,7 @@ export default function MainMenu() {
                                         <SettingsIcon fontSize="large" />
                                     </Typography>
                                     <Typography align="center" variant="h5">Paramètres</Typography>
-                                    <div>Gestion des paramètres</div>
+                                    <div>Gestions des paramètres</div>
                                 </CardContent>
                             </Link>
                         </CardActionArea>
